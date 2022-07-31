@@ -11,3 +11,4 @@ hello git master test
 hello git hot-fix test
 GitHub-modify
 linghuchong-modify
+the Second other people test
